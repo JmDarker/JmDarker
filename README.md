@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Sean bienvenidos a este espacio en donde podrán ver mis repositorios que he realizado, encontrara tanto errores que he cometido en el transcurso del paso de los tiempos, dejo los errores dentro del repositorio porque quiero que puedan analizar los errores y los puedan solucionar, así como me equivoco también investigo y práctico para aprender ya que es de los errores que uno aprende, del éxito no se aprende.
+
+Me gustaría poder con la ayuda de todos ustedes para seguiré creciendo, aunque no se mucho también podría enseñar ya que a través de mis errores voy encontrando distintas soluciones, mis errores me harán mejor en el área, no de golpe, pero si poco a poco
